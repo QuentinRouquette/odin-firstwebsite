@@ -93,6 +93,7 @@ img {
 /* raw2 */
 
 .row2{
+    margin-top: 25px;
     display: flex;
     flex-direction: column;
     background-color: #f9faf8;
