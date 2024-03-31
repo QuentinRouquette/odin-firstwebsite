@@ -1,0 +1,28 @@
+p,
+ul {
+  border: 2px solid rebeccapurple;
+}
+
+li {
+  border: 2px solid #0909351e;
+  background-color: rgba(250, 235, 215, 0.349);
+  color:rgba(0, 0, 0, 0.808) ;
+  padding: 20px;
+  margin: 50px;
+  border-radius: 4%;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+  }
+  
+  span {
+    margin: 20px;
+    padding: 20px;
+    width: 80px;
+    height: 50px;
+    background-color: lightblue;
+    border: 2px solid blue;
+    display: inline-block;
+  }
