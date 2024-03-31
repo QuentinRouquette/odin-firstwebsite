@@ -17,12 +17,19 @@ ul {
     list-style: none;
   }
   
-  span {
-    margin: 20px;
-    padding: 20px;
-    width: 80px;
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+button {
     height: 50px;
-    background-color: lightblue;
-    border: 2px solid blue;
-    display: inline-block;
-  }
+    width: 150px;
+    margin: 0 auto;
+    display: block;
+}
+
+h2 {
+    text-align: center;
+}
